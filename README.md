@@ -1,2 +1,2 @@
-# Advanced_Compueter_Architecture
+# Advanced_Computer_Architecture
 Course projects
